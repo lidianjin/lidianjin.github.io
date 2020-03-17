@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-17T04:36:32.710Z</updated>
+  <updated>2020-03-17T05:22:53.022Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>优雅地使用Win10</title>
+    <link href="http://yoursite.com/2020/03/17/%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8Win10/"/>
+    <id>http://yoursite.com/2020/03/17/优雅地使用Win10/</id>
+    <published>2020-03-17T05:16:14.000Z</published>
+    <updated>2020-03-17T05:22:53.022Z</updated>
+    
+    <content type="html"><![CDATA[<p>一些Win10的快捷键、功能、软件，让我们高效、优雅地完成我们的工作。</p><a id="more"></a><h1 id="1-快捷键"><a href="#1-快捷键" class="headerlink" title="1. 快捷键"></a>1. 快捷键</h1><ul><li>Win+D：显示桌面</li><li>Win+E：打开资源管理器</li><li>Win+I：打开设置界面</li><li>Win+L：锁定屏幕</li><li>Win+R：打开运行窗口</li><li>Win+P：使用投影仪时，打开投影选项</li><li>Win+S：打开Cortana搜索框</li><li>Win+W：打开白板</li><li>Ctrl+Alt+Del：打开任务管理器</li><li>Win+数字键：打开固定在任务栏的软件</li><li>Win+Tab：时间线</li><li>Win+Shift+S：截图</li><li>Win+G：屏幕录制</li><li>Win+V：打开剪贴板，单击，Ctrl+V</li><li>Win+A：通知中心</li><li>Win+X：开始右键菜单</li><li>Win+M：所有窗口最小化</li><li>Win+U：讲述人设置</li><li>Win+K：蓝牙连接</li><li>Win+，：暂时回到桌面</li><li>Win+Ctrl+D：新的虚拟桌面</li><li>Win+Ctrl+F4：删除当前虚拟桌面</li><li>Win+Ctrl+左键：切换左侧虚拟桌面</li><li>Win+Ctrl+右键：切换右侧虚拟桌面</li></ul><h1 id="2-功能"><a href="#2-功能" class="headerlink" title="2. 功能"></a>2. 功能</h1><ul><li>抖动最小化其他窗口</li><li>直接拖拽保存网页图片</li><li>Ctrl+Shift+T：恢复关闭的网页</li><li>文件夹固定到快速访问</li><li>图片批量编号，全选，重命名，“名称+(数字编号)”</li><li>放大镜，Win+“+”</li><li>Win+“.”：表情符号</li><li>Ctrl+Shift+B：编辑文档下，表情和特殊符号</li><li>Ctrl+Shift+F：文字简繁转换（使用不多的也没有必要记住）</li><li>数学输入面板，Win+R，mip</li><li>屏幕键盘：Win+Ctrl+O</li><li>管理开机自启动应用，任务管理器，启动选项卡</li></ul><h1 id="3-软件"><a href="#3-软件" class="headerlink" title="3. 软件"></a>3. 软件</h1><ul><li>照片，制作动图</li><li>Edge浏览器</li><li>画图3D，神奇选择/抠图</li><li>画图工具Win+R，mspaint</li><li>计算器Win+R，calc</li><li>便笺</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一些Win10的快捷键、功能、软件，让我们高效、优雅地完成我们的工作。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Win10" scheme="http://yoursite.com/tags/Win10/"/>
+    
+  </entry>
   
   <entry>
     <title>Python中yield的next与send</title>
